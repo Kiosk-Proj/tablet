@@ -29,8 +29,10 @@ class CurrentPersonView: UIViewController{
         
         
         
-        
+        return label
     }
+    
+    
     
     
     
